@@ -1,2 +1,1 @@
-# oulad_analysis
-Statistical analysis using the pen University Learning Analytics Dataset (OULAD)
+# Open University Learning Analytics dataset analysis
