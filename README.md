@@ -6,9 +6,6 @@ This report outlines a project focused on analyzing the [Open University Learnin
 
 Different classification models are compared, including logistic classifiers, linear discriminant analysis, quadratic discriminant analysis, naive Bayes, and K-Nearest Neighbors. 
 
-The results indicate that logistic regression models outperform others, attributed to the dataset not satisfying assumptions made by alternative models, especially concerning the normality of predictors and the prevalence of categorical features. Logistic classifiers and the naive Bayes model, which incorporate categorical data, exhibit the highest accuracy. Notably, K-Nearest Neighbors, relying solely on numerical variables, performs the least effectively.
-Recommendations for educational institutions are proposed based on these findings, such as offering special assistance to students with lower deprivation levels and education, understanding dynamics of successful modules, and monitoring students' interactions for timely interventions.
-
 | Model          | Accuracy   | Sensitivity | Specificity |
 |----------------|------------|-------------|-------------|
 | LR_stepwise    | 0.7998289  | 0.8442783   | 0.7504514   |
@@ -20,4 +17,8 @@ Recommendations for educational institutions are proposed based on these finding
 | QDA_fuller     | 0.7544910  | 0.8660598   | 0.6305525   |
 | Naive_Bayes    | 0.7774166  | 0.8741873   | 0.6699169   |
 | KNN            | 0.7478186  | 0.8016905   | 0.6879740   |
+
+The results indicate that logistic regression models outperform others, attributed to the dataset not satisfying assumptions made by alternative models, especially concerning the normality of predictors and the prevalence of categorical features. Logistic classifiers and the naive Bayes model, which incorporate categorical data, exhibit the highest accuracy. Notably, K-Nearest Neighbors, relying solely on numerical variables, performs the least effectively.
+Recommendations for educational institutions are proposed based on these findings, such as offering special assistance to students with lower deprivation levels and education, understanding dynamics of successful modules, and monitoring students' interactions for timely interventions.
+
 
