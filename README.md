@@ -1,4 +1,4 @@
-# Open University Learning Analytics dataset analysis for student classification
+# Open University Learning Analytics dataset analysis: understanding student's success factors in online learning
 ## Abstract
 This report outlines a project focused on analyzing the [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset) using various statistical learning methods, with an emphasis on **classification models** and **feature selection**. The dataset encompasses information about seven courses held in the Virtual Learning Environment (VLE) of the Open University, including anonymized data about students and their interactions with course materials. The goal is to understand which variables influence student performance to improve the online learning experience.
 
